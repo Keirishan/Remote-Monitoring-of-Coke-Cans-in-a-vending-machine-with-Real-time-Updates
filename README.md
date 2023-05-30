@@ -14,7 +14,9 @@ In this project, we build a vending machine system that monitors the temperature
        ![image](https://github.com/Keirishan/Remote-Monitoring-of-Coke-Cans-in-a-vending-machine-with-Real-time-Updates/assets/73067084/07c65718-9315-4090-8492-9a4b8eae5cc1)
        
 
-  2. Redults
+  2. Results
+
+        https://github.com/Keirishan/Remote-Monitoring-of-Coke-Cans-in-a-vending-machine-with-Real-time-Updates/assets/73067084/e4433e7e-5856-4294-92ea-76298a811b9b
 
         ![image](https://github.com/Keirishan/Remote-Monitoring-of-Coke-Cans-in-a-vending-machine-with-Real-time-Updates/assets/73067084/175de30f-8046-458f-a4a8-6d14b9e18887)
         
